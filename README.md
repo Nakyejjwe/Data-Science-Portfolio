@@ -20,7 +20,3 @@ A collection of projects and exercises from my Master of Science in Data Science
 
 ---
 
-## About Me
-I'm Christine Nakyejjwe, an IT professional with 5+ years in humanitarian digital security and data management, now deepening my skills in data science and machine learning.
-
-📧 christinenakyejjwe@outlook.com
