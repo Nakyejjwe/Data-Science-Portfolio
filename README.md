@@ -14,7 +14,7 @@ A collection of projects and exercises from my Master of Science in Data Science
 - Tested relationships using correlation, ANOVA, and chi-square
 - Selected the most important features using SelectKBest and Random Forest
 
-**Key finding:** Engine size, curb weight, and horsepower have the strongest effect on price, and rear-wheel-drive cars cost about twice as much as front-wheel-drive cars. 
+**Key findings:** Engine size, curb weight, and horsepower have the strongest effect on price, and rear-wheel-drive cars cost about twice as much as front-wheel-drive cars. 
 
 **Files:**
 - 📓 [Notebook – code, outputs and explanations](Assignment1_Nakyejjwe.ipynb)
